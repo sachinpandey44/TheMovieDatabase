@@ -1,6 +1,6 @@
 # TheMovieDatabase
 An iOS movie app that showcases movies data sourced from https://www.themoviedb.org. 
-The project demonstrate getting a list of movies from API and showing them in the app, while also ensuring a smooth performance by using background threads and cache. 
+The project demonstrate getting a list of movies from API and showing them in the app, while also ensuring a smooth performance by using background threads and cache, similar to streaming apps like Netflix.  
 
 
 ## Overview
@@ -15,4 +15,5 @@ The app does the following:
 - The app uses Apple developer recommended approach to cache and fetch images from URL for optimized performance. 
 - CollectionView prefetching is used for smoother background fetch of data to be displayed on upcoming cells as user scrolls. 
 - Basic unit and UI test cases are provided. Feel free to add more tests. 
+
      
