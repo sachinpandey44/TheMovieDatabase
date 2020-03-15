@@ -1,5 +1,6 @@
 # TheMovieDatabase
 An iOS movie app that showcases movies data sourced from https://www.themoviedb.org. 
+The project demonstrate getting a list of movies from API and showing them in the app, while also ensuring a smooth performance by using background threads and cache. 
 
 
 ## Overview
